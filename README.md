@@ -67,7 +67,3 @@ Jared Scott
 
 ![image](https://github.com/user-attachments/assets/d42b57d9-1d72-4d88-8a1f-94cd7bdd8b87)
 
-
-## Video
-
-## PDF

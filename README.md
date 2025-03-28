@@ -62,3 +62,12 @@ The current implementation uses the following tie-breaking rule: if multiple bid
 ## Author
 
 Jared Scott
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/d42b57d9-1d72-4d88-8a1f-94cd7bdd8b87)
+
+
+## Video
+
+## PDF
